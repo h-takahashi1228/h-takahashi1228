@@ -27,7 +27,7 @@ WPF → Houdini → UE という **ツールパイプライン理解を目的**�
 
 ## 🎮 SET – Solo Time Attack (Unreal Engine 5)
 
-**Repository:** [SET-solo-time-attack](https://github.com/h-takahashi1228/SET-solo-time-attack)  
+**Repository:** [SET-solo-time-attack](https://github.com/h-takahashi1228/SET)  
 **制作期間:** 約1ヶ月  
 **担当:** 個人制作
 
