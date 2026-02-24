@@ -42,5 +42,5 @@ WPF → Houdini → UE という **ツールパイプライン理解を目的**�
 
 ---
 
-## 📫 Contact
+## Contact
 - Email: shall.marching@gmail.com
